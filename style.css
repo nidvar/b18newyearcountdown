@@ -15,3 +15,9 @@ body{
 .data{
     margin:15px;
 }
+h1{
+    font-size:40px;
+    font-weight:lighter;
+    margin:10px;
+    padding:0;
+}
